@@ -1,0 +1,16 @@
+{
+  "name": "netiul/php-opis-json-schema",
+  "description": "Metapackage which installs event-engine/php-json-schema with opis/json-schema",
+  "homepage": "https://event-engine.io/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zacharias Luiten"
+    }
+  ],
+  "require": {
+    "event-engine/php-json-schema": "^2.0",
+    "opis/json-schema": "^1.0"
+  },
+  "prefer-stable": true
+}
